@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serenayulas
+- 👋🏻 Hi, I’m @serenayulas
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning RL
 
